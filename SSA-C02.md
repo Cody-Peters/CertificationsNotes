@@ -44,3 +44,19 @@ sa-east-1 |	South America (São Paulo)
   - 205 Edge Locations
   - 11 Regional Caches
   - 84 Cities accross 42 Countries
+
+# Identity and Access Management
+- IAM is a **GLOBAL** service
+
+## Users and Groups
+- **Root**
+  - Created by default should not be used.
+- **Users**
+  - Should be grouped
+- **Groups**
+  - Can not contain nested groups
+  
+## Permissions
+- Users/Groups assigned *JSON* documents called **Policies**
+  - Polices define **permissions**
+  - ***Least Privilege Principle -*** Prevents users from getting more permissions than they need. 
