@@ -60,3 +60,8 @@ sa-east-1 |	South America (São Paulo)
 - Users/Groups assigned *JSON* documents called **Policies**
   - Polices define **permissions**
   - ***Least Privilege Principle -*** Prevents users from getting more permissions than they need. 
+
+
+
+# SSA-C02 
+
