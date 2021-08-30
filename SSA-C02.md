@@ -65,3 +65,16 @@ sa-east-1 |	South America (São Paulo)
 
 # SSA-C02 
 
+## Course Fundamentals and AWS Accounts
+
+## USERS
+- AWS Account is a container for identities and resources
+- Root users has full control of AWS account and any resources - Can not be restricted
+- IAM Identity and access management - groups and rolls can be created and given full/limited permissions
+-   start with NO permissions 
+
+## Creating an AWS Account
+
+
+
+
